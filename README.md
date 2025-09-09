@@ -1,15 +1,12 @@
-1. Clone the repo
-https://github.com/patilvishal1407/student_monitoring_app.git
-
+1. Clone the repot
+https://github.com/patilvishal1407/SOL9X.git
 
 2. Backend Setup
 cd backend
 npm install
 
 Run the backend: node server.js
-Backend will start at: http://localhost:5005
-
-SQLite DB file will be created automatically as students.db.
+Backend will start at: http://localhost:3001
 
 3. Frontend Setup
 cd frontend
